@@ -1,0 +1,96 @@
+body{
+	background: #C733FF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+	font-size:120px;
+}
+
+#espa{
+	background: linear-gradient(to bottom, hsla(193, 100%, 50%, 0.700), hsla(213, 100%, 50%, 1)), url(fes.jpg);
+	margin: 15px;
+	height: 280px;
+	width: 900px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#mate{
+	background-color: #E5F000;
+	margin: 15px;
+	height: 280px;
+	width: 900px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#ciencia{
+	background-color: #00F01D;
+	margin: 15px;
+	height: 280px;
+	width: 900px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#histo{
+	background-color: #FF0000;
+	margin: 15px;
+	height: 280px;
+	width: 900px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#musica{
+	background-color: orange;
+	margin: 15px;
+	height: 280px;
+	width: 900px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#tec{
+	background-color: aqua;
+	margin: 15px;
+	height: 280px;
+	width: 900px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#depo{
+	background-color: #9AFE1A;
+	margin: 15px;
+	height: 280px;
+	width: 900px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a{
+	font-size: 80px;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+a:hover{
+	color:blue
+	}
